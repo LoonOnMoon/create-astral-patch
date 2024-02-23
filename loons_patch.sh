@@ -1,1 +1,1 @@
-zip -r loons_patch.zip mods config journeymap ComplementaryReimagined.txt changelog.md options.txt README.md
+zip -r loons_patch.zip mods config journeymap ComplementaryReimagined.txt changelog.md options.txt README.md mod_remover.bat mod_remover.sh

@@ -1,0 +1,1 @@
+rm mods/PuzzlesLib-v3.3.5-1.18.2-Fabric.jar
