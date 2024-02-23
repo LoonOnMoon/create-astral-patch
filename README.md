@@ -6,7 +6,7 @@
 
 - Download the zip from the Meowzers discord, in the #mod_patch channel
 - Extract it in an isolated folder
-- Copy the extracted files into your modpack instance root directory
+- Copy the extracted files into your instance minecraft root directory (there should be a folder called `minecraft`)
   - You'll know you're in the right place if you have a `mods` folder, a `saves` folder, `options.txt` etc.  
   ![Root Folder](/img/RootFolder.png)
   - For PrismLauncher, you can find this by clicking on the instance, and on the right hand side clicking on the foler button  
