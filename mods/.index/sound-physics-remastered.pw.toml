@@ -1,0 +1,13 @@
+filename = 'soundphysics-fabric-1.18.2-1.0.6.jar'
+name = 'Sound Physics Remastered'
+side = 'both'
+
+[download]
+hash = '414615a585c0d26bbf25f66a6608f06606fda4a5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3804243
+project-id = 535489

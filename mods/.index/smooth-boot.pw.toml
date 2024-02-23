@@ -1,0 +1,13 @@
+filename = 'smoothboot-fabric-1.18.2-1.7.0.jar'
+name = 'Smooth Boot (Fabric)'
+side = 'both'
+
+[download]
+hash = '3ca71bca131120dcea2b6edf4d71773f0e1f820b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3692365
+project-id = 415758

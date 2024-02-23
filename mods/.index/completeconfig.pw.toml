@@ -1,0 +1,13 @@
+filename = 'completeconfig-lib-1.4.1.jar'
+name = 'CompleteConfig'
+side = 'both'
+
+[download]
+hash = 'f94f077b18d9b96f01550dcbaaac694d3b5f12a1824378552165a0f3b7bab2e6d0fde460c7f031fee5abea18e04240578c825acdfdb3dbfccd95166ba852869c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GtqG8z1h/versions/1.4.1/completeconfig-lib-1.4.1.jar'
+
+[update.modrinth]
+mod-id = 'GtqG8z1h'
+version = 'mjJMU8FD'

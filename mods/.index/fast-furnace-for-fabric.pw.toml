@@ -1,0 +1,13 @@
+filename = 'fastfurnace-1.18.2-4.1.jar'
+name = 'Fast Furnace for Fabric'
+side = 'both'
+
+[download]
+hash = '84f0ba2506eff5e5b986053b42d9a99567d97165'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4072380
+project-id = 364540

@@ -1,0 +1,13 @@
+filename = 'packed-inventory-0.2.2+1.18.2.jar'
+name = 'Packed Inventory'
+side = 'both'
+
+[download]
+hash = '2bce98dd4dcfc5efc420297bd2eacee25f19027564dd80b64d36829cee16190d345763b72942abe50e9a2f2677d99b47cb1b933a6de705c2d5f89cb7eb308851'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ofS5nIjw/versions/0.2.2%2B1.18.2/packed-inventory-0.2.2%2B1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'ofS5nIjw'
+version = 'XljPbZlW'

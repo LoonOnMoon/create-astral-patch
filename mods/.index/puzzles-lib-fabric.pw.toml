@@ -1,0 +1,13 @@
+filename = 'PuzzlesLib-v3.3.5-1.18.2-Fabric.jar'
+name = 'Puzzles Lib [Legacy Fabric]'
+side = 'both'
+
+[download]
+hash = '9af22a06555f52ec9246f61d61529f2c23fa7ffb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3804330
+project-id = 547429

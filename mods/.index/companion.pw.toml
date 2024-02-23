@@ -1,0 +1,13 @@
+filename = 'Companion-1.18.2-fabric-2.0.1.jar'
+name = 'Companion 🐕'
+side = 'server'
+
+[download]
+hash = 'c62206186a4b2a47b2ac93f82103ebbbc9721b366510143f97ac1bd6020bad306a8f1dd339a245745ffd43dfbac12756070dc62e4106381f96d2c0d987b00c07'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4w0EzGRW/versions/nVb4BhsV/Companion-1.18.2-fabric-2.0.1.jar'
+
+[update.modrinth]
+mod-id = '4w0EzGRW'
+version = 'nVb4BhsV'

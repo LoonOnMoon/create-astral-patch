@@ -1,0 +1,13 @@
+filename = 'observable-2.2.3-fabric.jar'
+name = 'Observable'
+side = 'both'
+
+[download]
+hash = 'b0808a3b4dab60763f2b8e666c22da64a5e43edae1374f470286bd4948f6232b4e63ab026a14e2fe99bc0fca6389a5dbee992aa32d300513979c3ad6a97444d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VYRu7qmG/versions/2.2.3/observable-2.2.3-fabric.jar'
+
+[update.modrinth]
+mod-id = 'VYRu7qmG'
+version = 'zSXedEa4'

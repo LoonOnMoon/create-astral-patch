@@ -1,0 +1,13 @@
+filename = 'extractinator-fabric-1.18.2-2.0.1.jar'
+name = 'Extractinator'
+side = 'both'
+
+[download]
+hash = 'ed76add55ddc25a940f20adf9eefe69a6d5c30bb85fe315ff518564823588eddaeae8af93092296dfc941523fedc23437a18dd745268e324f7bee2891fb6a530'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2EPioYNN/versions/7URi0HAu/extractinator-fabric-1.18.2-2.0.1.jar'
+
+[update.modrinth]
+mod-id = '2EPioYNN'
+version = '7URi0HAu'

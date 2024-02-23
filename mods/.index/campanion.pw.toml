@@ -1,0 +1,13 @@
+filename = 'campanion-3.0.3.jar'
+name = 'Campanion'
+side = 'both'
+
+[download]
+hash = 'a53ff9b68aefa29c6079c10bc6a4cc5405ffc86574ff1ff4319fa08f72ab31c07a7210bce342b4ecafa1cfff5eea0452dd07f6d47194b8e2549abe2debd9d617'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Y2Rds0HS/versions/3.0.3/campanion-3.0.3.jar'
+
+[update.modrinth]
+mod-id = 'Y2Rds0HS'
+version = 'yeEpI0UT'

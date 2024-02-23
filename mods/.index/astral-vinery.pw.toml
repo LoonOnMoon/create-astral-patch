@@ -1,0 +1,13 @@
+filename = 'astralvinery-1.1.1.jar'
+name = 'Astral Vinery'
+side = 'both'
+
+[download]
+hash = 'c82635236c45c29074849914ab18263954460eadddd8b19e5bf73fee509b5552bf49714356328931e890084ca3f31149759ded059d18ac9d44eb14b2b826c88c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rBDJ4pR9/versions/IxKkhqMU/astralvinery-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'rBDJ4pR9'
+version = 'IxKkhqMU'

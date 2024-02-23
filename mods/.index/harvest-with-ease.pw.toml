@@ -1,0 +1,13 @@
+filename = 'harvestwithease-1.18.2-4.0.0.2-fabric.jar'
+name = 'Harvest with ease'
+side = 'both'
+
+[download]
+hash = 'ce29a0ee92c792aa6667655c0144966d3addfa4f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4132251
+project-id = 602171

@@ -1,0 +1,13 @@
+filename = 'MapFrontiers-1.18.2-2.5.1-fabric.jar'
+name = 'MapFrontiers'
+side = 'both'
+
+[download]
+hash = 'bfe49ca33c4cf7cc0212b134f4bf988e06ee8515cb5efb99d0665d662f23a7615ce67cc169356e48edda952bf262b087ca2ce8e728190c2dcef3d612162be4ac'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hWlsli6y/versions/5TEfGssH/MapFrontiers-1.18.2-2.5.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'hWlsli6y'
+version = '5TEfGssH'

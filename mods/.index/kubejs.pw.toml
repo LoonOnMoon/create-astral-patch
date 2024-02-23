@@ -1,0 +1,13 @@
+filename = 'kubejs-fabric-1802.5.5-build.567.jar'
+name = 'KubeJS'
+side = 'both'
+
+[download]
+hash = '92b5d07cdda8c6b87d57536b188404f9000df750e428b38008f44748b503a34e27084ddc69e5060a84235f83802d0d402328f7a57540a4baecb4ec536e6d092f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/umyGl7zF/versions/RCatfhz4/kubejs-fabric-1802.5.5-build.567.jar'
+
+[update.modrinth]
+mod-id = 'umyGl7zF'
+version = 'RCatfhz4'

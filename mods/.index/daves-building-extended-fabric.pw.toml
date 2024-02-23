@@ -1,0 +1,13 @@
+filename = 'dbe-1.18.2-1.0.0.jar'
+name = "Dave's Building Extended Fabric"
+side = 'both'
+
+[download]
+hash = '00ca0df566f304573cdb2b5de5af0a00ef007515'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4015237
+project-id = 684493

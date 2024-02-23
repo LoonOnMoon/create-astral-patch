@@ -1,0 +1,13 @@
+filename = 'cobblegen-v2.1b57-BETA.jar'
+name = 'CobbleGen'
+side = 'server'
+
+[download]
+hash = '2f52e1000baea87d6d97fb5d5ff64f2276a5ffb4073941bfdbb1d6da9268ddfd48d4f80489adbf3b8888910f0e1d2acdaf1b44dd870b3a09818c13d7c0e1d0b2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qRogT5Gy/versions/RFDCisoA/cobblegen-v2.1b57-BETA.jar'
+
+[update.modrinth]
+mod-id = 'qRogT5Gy'
+version = 'RFDCisoA'

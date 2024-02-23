@@ -1,0 +1,13 @@
+filename = 'rhino-fabric-1802.2.1-build.255.jar'
+name = 'Rhino'
+side = 'both'
+
+[download]
+hash = '2fc6d25b42f2fbe2483ae33a318503005f6947b0c0620f383405067049187fbc231821c7d0b4a66d71801f32c1715285a672909de2941e7db48bcfadefaf1095'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sk9knFPE/versions/bsrlks7Z/rhino-fabric-1802.2.1-build.255.jar'
+
+[update.modrinth]
+mod-id = 'sk9knFPE'
+version = 'bsrlks7Z'

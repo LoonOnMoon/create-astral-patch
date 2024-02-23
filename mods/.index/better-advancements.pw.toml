@@ -1,0 +1,13 @@
+filename = 'BetterAdvancements-Fabric-1.18.2-0.2.0.146.jar'
+name = 'Better Advancements'
+side = 'client'
+
+[download]
+hash = '7f6fc67d46ff88ba1b1ec6ffc6ad830b8bcd56508cfe86510e1d6a57935c6f4d8238b82be73523d14bb9162760a4e3def93d5c6eea68f398cea3ff9c75a6616c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q2OqKxDG/versions/gNEdbmCZ/BetterAdvancements-Fabric-1.18.2-0.2.0.146.jar'
+
+[update.modrinth]
+mod-id = 'Q2OqKxDG'
+version = 'gNEdbmCZ'

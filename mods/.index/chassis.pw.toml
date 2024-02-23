@@ -1,0 +1,13 @@
+filename = 'Chassis-Fabric-1.1.0.jar'
+name = 'Chassis'
+side = 'both'
+
+[download]
+hash = '8405cb8b4b7a621ac32d6add0df857b8245fcff3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3824499
+project-id = 596615

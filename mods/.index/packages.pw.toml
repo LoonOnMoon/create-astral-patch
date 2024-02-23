@@ -1,0 +1,13 @@
+filename = 'packages-fabric-1.18.2-3.4.jar'
+name = 'Packages'
+side = 'both'
+
+[download]
+hash = 'c9f9c3e0eec9a95632f15abe3e664901431a9018af657bf8ce1d845e9fee0941da18e936c889d9411d39065f39bbbe6feb790b791428985bef3107afd7bce540'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/10DZYVis/versions/IyTw3ag0/packages-fabric-1.18.2-3.4.jar'
+
+[update.modrinth]
+mod-id = '10DZYVis'
+version = 'IyTw3ag0'

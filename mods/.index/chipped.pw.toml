@@ -1,0 +1,13 @@
+filename = 'chipped-fabric-1.18.2-2.0.1.jar'
+name = 'Chipped'
+side = 'both'
+
+[download]
+hash = '61070d73bb1448f66e7a9bbb4a8a377e33bde6f406abea39d6e5e1a60e60983046af0d630b360956413afce1529cd86db10ac5d7579182c2ce6173a0309c63ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BAscRYKm/versions/DqX2DfLO/chipped-fabric-1.18.2-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'BAscRYKm'
+version = 'DqX2DfLO'

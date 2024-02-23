@@ -1,0 +1,13 @@
+filename = 'sodium-extra-0.4.16+mc1.18.2-build.89.jar'
+name = 'Sodium Extra'
+side = 'client'
+
+[download]
+hash = '6208709e94418d245ada30039647ebd997e04b3ae9516c28da2bf8c7a1fb52be46803dacf33d7679c52fa58ff1bdb77345070b09098dbce5e677a3549eccec08'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PtjYWJkn/versions/WtfLjBKR/sodium-extra-0.4.16%2Bmc1.18.2-build.89.jar'
+
+[update.modrinth]
+mod-id = 'PtjYWJkn'
+version = 'WtfLjBKR'

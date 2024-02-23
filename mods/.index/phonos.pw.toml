@@ -1,0 +1,13 @@
+filename = 'phonos-0.3+1.18.2.jar'
+name = 'Phonos'
+side = 'both'
+
+[download]
+hash = '7de212f074d60f403304271c49d62e4f03bd7ba5cc66410b6e8b09fbf969ac307434991d0d103c4577a326fd1cfa82b79d87bfeee71a41e75253000277ec93eb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z5KH0yKE/versions/0.3%2B1.18.2/phonos-0.3%2B1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'z5KH0yKE'
+version = 'Ixgxkdcc'

@@ -1,0 +1,13 @@
+filename = 'subterrestrial-fabric-1.18.2-2.0.0.jar'
+name = 'Subterrestrial'
+side = 'server'
+
+[download]
+hash = 'c09c0c3cb2643c3f23251a9f539c49b5d05b6ab19fcd0223b84782f2bcb88464aa359e980dc52eac29b0bcdcd22a69c490c9260079d0bcc7efe4bc3725eff7c6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UiVm8hgI/versions/UimCcR87/subterrestrial-fabric-1.18.2-2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'UiVm8hgI'
+version = 'UimCcR87'

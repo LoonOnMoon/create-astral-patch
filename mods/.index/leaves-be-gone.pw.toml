@@ -1,0 +1,13 @@
+filename = 'LeavesBeGone-v3.0.0-1.18.2-Fabric.jar'
+name = 'Leaves Be Gone'
+side = 'server'
+
+[download]
+hash = 'a81626f2ed6c3f33d4c0bfbabcf29160a0ddc1e5045e7b94238cfda2206e320759a8174ca6eb5b11db0655126bee62d0e260f6f14c9b926baf484fd8b6d853b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AVq17PqV/versions/aCHNt9MS/LeavesBeGone-v3.0.0-1.18.2-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'AVq17PqV'
+version = 'aCHNt9MS'

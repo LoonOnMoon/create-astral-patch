@@ -1,0 +1,13 @@
+filename = 'createdeco-1.2.13-1.18.2.jar'
+name = 'Create Deco Fabric'
+side = 'both'
+
+[download]
+hash = '3f14bad01a1cf8f29fa2e7053ecccbcc7a2fafc6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4394267
+project-id = 739872

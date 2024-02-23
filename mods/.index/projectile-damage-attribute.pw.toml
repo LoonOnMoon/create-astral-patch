@@ -1,0 +1,13 @@
+filename = 'projectiledamage-fabric-2.2.0+1.18.2.jar'
+name = 'Projectile Damage Attribute'
+side = 'both'
+
+[download]
+hash = 'e6db68117d15a5e47c3865c26caaac7bf99f4a45d9036c3c101b34b6533b13c7a2497621761a38ae09131ac687716c94befb6eda4103b1a0259970a9175d6f4e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AOyJhFvl/versions/X4aCxNak/projectiledamage-fabric-2.2.0%2B1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'AOyJhFvl'
+version = 'X4aCxNak'

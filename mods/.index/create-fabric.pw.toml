@@ -1,0 +1,13 @@
+filename = 'create-fabric-0.5.0.i-988+1.18.2.jar'
+name = 'Create Fabric'
+side = 'both'
+
+[download]
+hash = 'e0cc10d03e797d7e7695a63296eabec0ada8445fd94bb4eacc5ed1f1449bfcbe09a70d588074fa85bd9fcd53e3851dc3fc0694f3eba6536c5036469361abe0c2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Xbc0uyRg/versions/SDRtfq3B/create-fabric-0.5.0.i-988%2B1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'Xbc0uyRg'
+version = 'SDRtfq3B'

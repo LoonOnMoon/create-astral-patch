@@ -1,0 +1,13 @@
+filename = 'loadmyresources_fabric_1.0.4_MC_1.18-1.18.2.jar'
+name = 'Load My Resources'
+side = 'client'
+
+[download]
+hash = '5f2150903817081f2f41c333af0127b09aad7c686ab59ee409145e025acfc8e149a276d510a710d0f4f6d20d272c3aa9f86af4471579f069998113842d1ece05'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TqCKvqjC/versions/XS4A9Aoo/loadmyresources_fabric_1.0.4_MC_1.18-1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'TqCKvqjC'
+version = 'XS4A9Aoo'

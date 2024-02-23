@@ -1,0 +1,13 @@
+filename = 'camsbackpacks-2.2.jar'
+name = "Cammie's Wearable Backpacks"
+side = 'both'
+
+[download]
+hash = 'e124f9653d6fd075f05c8e8cdbeddff19ee99fd3604c6d3fc812423fda62b522e11da493c6e135074087c1e4ee81f8de6108e64eb56e6b2ba91eddd02c9f50fd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s2OAgsTb/versions/2.2/camsbackpacks-2.2.jar'
+
+[update.modrinth]
+mod-id = 's2OAgsTb'
+version = 'Wj4FZTv2'

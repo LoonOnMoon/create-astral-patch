@@ -1,0 +1,13 @@
+filename = 'towns_and_towers_fabric-1.10.0.1+1.18.2.jar'
+name = 'Towns and Towers'
+side = 'server'
+
+[download]
+hash = '72883be56f7930c2200075ee91c40c396bf18c7db3adb2df19edfa63637ac0a8a423440a9b424a793dcc74134cf391f6937176ffff90699c64a894ff48667304'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DjLobEOy/versions/OW3d0dmB/towns_and_towers_fabric-1.10.0.1%2B1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'DjLobEOy'
+version = 'OW3d0dmB'

@@ -1,0 +1,13 @@
+filename = 'neruina-1.1.0-fabric+1.18.2.jar'
+name = 'Neruina - Ticking Entity Fixer'
+side = 'server'
+
+[download]
+hash = '77d565916c6c2179f9d75a3d23bb9ff15854a4762a3b0f572e9bee9df9d30de89835161398abdd5e859da41190e6727cdeb93aeb3dcb5dbd4cd251687ab93aba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1s5x833P/versions/Ks0iPnry/neruina-1.1.0-fabric%2B1.18.2.jar'
+
+[update.modrinth]
+mod-id = '1s5x833P'
+version = 'Ks0iPnry'
